@@ -1,0 +1,73 @@
+A simple application that allows quick dynamic resizing of any translator supported image and much much more.
+OptionView: Μια απλή εφαρμογή που επιτρέπει τη γρήγορη και ευέλικτη αλλαγή μεγέθους οποιασδήποτε εικόνας που υποστηρίζεται από τον μεταφραστή και πολλά άλλα.
+Darkness
+OptionView: Σκοτάδι
+Flip left-right
+OptionView: Αναστροφή αριστερά-δεξιά
+Reset
+OptionView: Επαναφορά
+Undo
+OptionView: Αναίρεση
+The Awesome Resizer
+System name: Ο Φανταστικός μετατροπέας Διαστάσεων
+Width
+OptionView: Πλάτος
+OK
+OptionView: Εντάξει
+Height
+OptionView: Ύψος
+Translator settings
+OptionView: Ρυθμίσεις μεταφραστή
+Smooth scaling
+OptionView: Ομαλή κλιμάκωση
+Drag and drop to open/save an image
+MainView: Σύρε και Άφησε για να ανοίξεις/αποθηκεύσεις μια εικόνα
+Blur
+OptionView: Θόλωση
+Out of range
+MouseView: Εκτός εμβέλειας
+Screenshot
+OptionView: Στιγμιότυπο οθόνης
+Grayscale
+OptionView: Κλίμακα του γκρι
+Preserve aspect ratio
+OptionView: Διατήρηση αναλογιών
+Choose
+OptionView: Επιλογή
+Drunk
+OptionView: Μεθυσμένη
+Swap green-blue
+OptionView: Ανταλλαγή πράσινου-μπλε
+TAResizer
+OptionView: TAResizer
+Apply
+OptionView: Εφαρμογή
+Swap red-blue
+OptionView: Ανταλλαγή κόκκινου-μπλε
+TAR: (No image)
+MainView: TAR: (Χωρίς εικόνα)
+MainWindow: TAR: (Χωρίς εικόνα)
+Invert
+OptionView: Αντιστροφή
+Brightness
+OptionView: Φωτεινότητα
+Size:
+OptionView: Μέγεθος:
+90° rotation
+OptionView: Περιστροφή 90°
+Settings…
+OptionView: Ρυθμίσεις…
+Format:
+OptionView: Μορφή:
+Filename:
+OptionView: Όνομα αρχείου:
+Swap red-green
+OptionView: Ανταλλαγή κόκκινου-πράσινου
+Choose an action
+OptionView: Επιλογή ενέργειας
+Working…
+MainView: Εργασία σε εξέλιξη…
+Flip top-bottom
+OptionView: Αναστροφή πάνω-κάτω
+Melt
+OptionView: Τήξη
